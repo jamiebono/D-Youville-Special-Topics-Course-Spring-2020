@@ -7,9 +7,9 @@ Windows - download from [here](https://docs.microsoft.com/en-us/sql/ssms/downloa
 macOS and Linux - download from [here](https://github.com/Microsoft/azuredatastudio)
 
 ## Connection Information
-Server: 
+Server: dyc.database.windows.net,1433
 
-Database Name:
+Database Name: dyc
 
 ## Setup Login
 Run Script 01_Setup_Login.sql
