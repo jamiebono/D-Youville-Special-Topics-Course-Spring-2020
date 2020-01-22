@@ -19,5 +19,5 @@ Run 02_Setup_User_And_Schema.sql
 
 ## Tips
 * If you get the error:
-** The server principal <username> is not able to access the database "master" under the current security context.
-** Go to Options > Connection Properties > Connect to Database = "dyc"
+* The server principal <username> is not able to access the database "master" under the current security context.
+* Go to Options > Connection Properties > Connect to Database = "dyc"
