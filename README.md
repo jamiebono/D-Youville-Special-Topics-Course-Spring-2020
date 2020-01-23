@@ -10,7 +10,7 @@ Location: BFAC 204
 Credits: 3   
  
 ## PARTICIPATING FACULTY
-•	Jamie Bono, [mailto:jamie@rprt.dev](jamie@rprt.dev)  
+•	Jamie Bono, [jamie@rprt.dev](mailto:jamie@rprt.dev)  
 •	Nick Gianadda, gianadda@gmail.com  
 •	Jessica Kumro, jessica@kumro.io  
 •	Charles Marra, cjmarra718@gmail.com  
