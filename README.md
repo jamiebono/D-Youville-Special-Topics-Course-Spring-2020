@@ -1,7 +1,7 @@
 # PH 389-A Special Topics in Health Analytics and Visualization 
 
 Lauren Clay, PhD, MPH  
-Office: SASE 046  
+Office: SASE 046, yes this is new  
 Email: clayl@dyc.edu  
 Phone: email is the best way to reach me  
 Office Hours: W 10-11  
