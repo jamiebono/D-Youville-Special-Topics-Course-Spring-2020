@@ -55,10 +55,10 @@ ORDER BY
 -- 7. WHAT ARE THE TOP 5 DRGs BY AVERAGE TOTAL PAYMENT FOR THE BUFFALO HOSPITAL?
 SELECT TOP 5
     DRG_Definition,
-    AVG(Average_Total_Payments) as Average_Total_Payments
+    AVG(Average_Total_Payments * Total_Discharges) as Average_Total_Payments
 FROM   
     cmarra.IPPS_Buffalo
 GROUP BY
     DRG_Definition
 ORDER BY
-    AVG(Average_Total_Payments) DESC
+    AVG(Average_Total_Payments * Total_Discharges) DESC
