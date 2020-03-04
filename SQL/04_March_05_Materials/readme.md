@@ -7,6 +7,7 @@ Discussion Items
 2. TEMP TABLE
 3. STORED PROCEDURES
 4. FUNCTIONS
+5. INDEXES
 
 ACS Profile Data
 
