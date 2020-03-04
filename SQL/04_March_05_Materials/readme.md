@@ -3,6 +3,7 @@
 Materials for the first SQL workshop, March 5th
 
 Discussion Items
+
 1. TABLE JOINS
 2. TEMP TABLE
 3. STORED PROCEDURES
@@ -10,6 +11,7 @@ Discussion Items
 5. INDEXES
 
 Exercises
+
 1. 
 
 ACS Profile Data
